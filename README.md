@@ -1,1 +1,42 @@
 # personal-money-management
+
+## フロントエンドのインフラストラクチャ：
+* public  
+  * index.html  
+  * img  
+    * xxx.png  
+* src  
+  * common  
+    * xxx  
+  * components  
+    * auth  
+      * admin  
+        * index.tsx  
+      * client  
+        * index.tsx  
+    * future  
+      * upload-image  
+        * index.tsx  
+    * navbar  
+      * index.tsx  
+  * pages  
+    * admin-pages  
+      * index.tsx  
+    * client-pages  
+      * index.tsx  
+  * redux  
+    * api  
+    * store  
+  * styles  
+    * xxx.css  
+  * types  
+    * user-types  
+  * utils  
+* .env  
+* .gitignore  
+* package-lock.json  
+* package.json  
+* readme.md  
+* tsconfig.json  
+
+##他のコメント。。。。
